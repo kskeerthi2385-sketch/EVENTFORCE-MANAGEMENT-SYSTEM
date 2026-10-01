@@ -1,4 +1,4 @@
-🎪 EventForce Management System
+🎪 EVENTFORCE-MANAGEMENT-SYSTEM
 
 Salesforce CRM Implementation for Event Management
 
